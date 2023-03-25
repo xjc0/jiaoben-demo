@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Hello new world
 // @namespace    http://chrxw.com
-// @version      0.1
+// @version      0.2
 // @description  new script
 // @author       xjc0
 // @match        *://*
@@ -13,5 +13,5 @@
 (function() {
     'use strict';
 
-   console.log("hello world");
+   console.log("hello new world");
 })();
